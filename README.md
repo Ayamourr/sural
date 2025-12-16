@@ -1,6 +1,6 @@
 # React
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+A modern React-based project **sur’AL** utilizing the latest frontend technologies and tools for building responsive web applications.
 
 ## 🚀 Features
 
@@ -98,10 +98,5 @@ Build the application for production:
 npm run build
 ```
 
-## 🙏 Acknowledgments
 
-- Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
-
-Built with ❤️ on Rocket.new
+Built with ❤️ for final defence ^^
